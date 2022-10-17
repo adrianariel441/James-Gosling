@@ -1,2 +1,0 @@
-# James-Gosling
-primeiro projeto 
